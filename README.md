@@ -129,4 +129,4 @@ Runtime app settings live in `.grok/app-env.json`, e.g.:
 
 ## License
 
-Private / unpublished.
+[MIT](./LICENSE) (c) 2026 ZFNO
