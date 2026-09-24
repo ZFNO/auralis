@@ -4,6 +4,9 @@
 
 Drop in an audio file, grant mic access, or let the built-in demo synth drive the visuals. Switch visualization modes, themes, and sensitivity from a HUD that fades away while you watch.
 
+
+![Auralis visualizer](./docs/screenshot.png)
+
 ---
 
 ## Features
