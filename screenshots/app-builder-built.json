@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Auralis",
+      "hasCanvas": true,
+      "bodyTextLen": 159,
+      "bodyTextHash": "41d46bb924fa672075b00d533145d4f96f42c8fa4444e95cf7c667ce850db672",
+      "bodyTextPrefix": "VISUALIZER Auralis Microphone or a track. Bars, orbits, waves, b",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Auralis",
+      "hasCanvas": true,
+      "bodyTextLen": 151,
+      "bodyTextHash": "b1190da744ee34e4de5f0b803abb863d892658993297a1d4aa97829137481a56",
+      "bodyTextPrefix": "VISUALIZER Auralis Microphone or a track. Bars, orbits, waves, b",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
